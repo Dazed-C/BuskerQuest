@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ea6e28e0e7f25348b4259fb8c3e0b9c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UltimateSpawna: {instanceID: 0}
+  - UltimateProjectile: {fileID: 1106275779186306041, guid: e0055c8a0732209419e979043ca27ca2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
