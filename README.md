@@ -18,7 +18,11 @@ create a game based on the event's theme of 'London'.
 
 
 Developer Instagram Handles:
-	@JSTASKIS - Graphics
-	@LU-LA-RE - Music/Sounds
-	@NAFIT1991 - Coder (myself)
-	@LYN1KER - Coder
+
+@JSTASKIS - Graphics
+
+@LU-LA-RE - Music/Sounds
+
+@NAFIT1991 - Coder (myself)
+
+@LYN1KER - Coder
